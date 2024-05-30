@@ -1,0 +1,22 @@
+.sidebar{
+    position: absolute;
+    right: 0;
+    top: 20rem;
+}
+
+p{
+    color: white;
+}
+
+.icon {
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+.likedheart{
+    color: red;
+}
+
+.heart{
+    color: white;
+}
